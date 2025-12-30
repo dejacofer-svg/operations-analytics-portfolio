@@ -1,2 +1,8 @@
-# operations-analytics-portfolio
-Operations and analytics portfolio showcasing Excel-based analysis, process mapping, and Lean Six Sigma methodologies applied to real-world operational challenges.
+# Operations & Analytics Portfolio
+
+This repository contains applied process improvement and data analysis projects
+demonstrating my approach to operational efficiency, root cause analysis,
+and data-driven decision-making.
+
+Projects focus on real-world business and healthcare operations scenarios,
+with an emphasis on clarity, practicality, and measurable impact.
